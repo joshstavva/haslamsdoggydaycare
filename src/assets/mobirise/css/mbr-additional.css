@@ -1323,6 +1323,25 @@ a {
 }
 
 
+.cid-tlVEKxZHB7 {
+  background-image: url("../../../assets/images/bigpuppers.jpg");
+}
+.cid-tlVEKxZHB7 .mbr-section-title {
+  text-align: center;
+}
+.cid-tlVEKxZHB7 .mbr-text,
+.cid-tlVEKxZHB7 .mbr-section-btn {
+  color: #232323;
+  text-align: center;
+}
+@media (max-width: 991px) {
+  .cid-tlVEKxZHB7 .mbr-section-title,
+  .cid-tlVEKxZHB7 .mbr-section-btn,
+  .cid-tlVEKxZHB7 .mbr-text {
+    text-align: center;
+  }
+}
+
 
 .cid-tlVEKzf5n0 {
   padding-top: 6rem;
